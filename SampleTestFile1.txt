@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is Sample File 
 google texxxxxxxxxxt1
+=======
+This is Sample File 1
+This is Comparaison lecture
+>>>>>>> main
