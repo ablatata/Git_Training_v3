@@ -5,3 +5,4 @@ google texxxxxxxxxxt1
 This is Sample File 1
 This is Comparaison lecture
 >>>>>>> main
+This is Stash lecture, Change in File 1
